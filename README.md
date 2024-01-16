@@ -6,3 +6,8 @@ You can draw on any image using tkinter and PIL. The drawn image is saved in tha
 `pip install opencv-python`
 
 # Result of running drow_onimage
+![skytree_before](skytree.jpg)
+
+Convert the saved ps file to an image at https://convertio.co/ja/ps-jpg/
+
+![skytree_after](drow_skytree.jpg.jpg)
