@@ -9,6 +9,8 @@ You can draw on any image using tkinter and PIL. The drawn image is saved in tha
 
 `$ pip install opencv-python`
 
+`$ pip install pillow`
+
 # How to use
 `$ drow_onimage`
 
