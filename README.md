@@ -14,7 +14,7 @@ You can draw on any image using tkinter and PIL. The drawn image is saved in tha
 
 Enter any image including the extension
 
-`$ Please enter the file up to the extension: filename.(jpg,png,jpeg)`
+`$ Please enter the file up to the extension: filename`
 
 The input image can now be used as a drawing.
 
