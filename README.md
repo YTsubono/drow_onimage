@@ -12,7 +12,7 @@ You can draw on any image using tkinter and PIL. The drawn image is saved in tha
 `$ pip install pillow`
 
 # How to use
-`$ drow_onimage`
+`$ drowonimage`
 
 Enter any image including the extension
 
